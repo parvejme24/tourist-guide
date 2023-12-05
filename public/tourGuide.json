@@ -1,0 +1,150 @@
+[
+  {
+    "name": "John Doe",
+    "profileImage": "https://example.com/profile-image.jpg",
+    "contactDetails": {
+      "email": "john.doe@example.com",
+      "phone": "+1 (123) 456-7890",
+      "address": "123 Main Street, Cityville, USA"
+    },
+    "education": {
+      "degree": "Bachelor of Tourism",
+      "school": "Tourism University",
+      "graduationYear": 2010
+    },
+    "skills": [
+      "Multilingual (English, Spanish, French)",
+      "Knowledgeable about local history and culture",
+      "Excellent communication skills",
+      "Customer service oriented",
+      "Navigation and map reading"
+    ],
+    "workExperience": [
+      {
+        "position": "Senior Tour Guide",
+        "company": "Adventure Tours Inc.",
+        "location": "Cityville, USA",
+        "startDate": "2010-06-01",
+        "endDate": "2015-12-31"
+      },
+      {
+        "position": "Tour Coordinator",
+        "company": "Explore More Travel Agency",
+        "location": "Citytown, USA",
+        "startDate": "2008-03-15",
+        "endDate": "2010-05-31"
+      }
+    ]
+  },
+  {
+    "name": "Jane Smith",
+    "profileImage": "https://example.com/jane-smith.jpg",
+    "contactDetails": {
+      "email": "jane.smith@example.com",
+      "phone": "+1 (987) 654-3210",
+      "address": "456 Tour Lane, Travel City, USA"
+    },
+    "education": {
+      "degree": "Master of Tourism Management",
+      "school": "Global Tourism Institute",
+      "graduationYear": 2012
+    },
+    "skills": [
+      "Expert in local flora and fauna",
+      "Adventurous trekking guide",
+      "CPR and First Aid certified",
+      "Fluent in local dialects",
+      "Photography skills"
+    ],
+    "workExperience": [
+      {
+        "position": "Lead Adventure Guide",
+        "company": "Nature Expeditions Co.",
+        "location": "Wilderness Valley, USA",
+        "startDate": "2012-02-15",
+        "endDate": "present"
+      },
+      {
+        "position": "Tour Specialist",
+        "company": "Wanderlust Travel Group",
+        "location": "Adventure City, USA",
+        "startDate": "2010-09-01",
+        "endDate": "2012-01-31"
+      }
+    ]
+  },
+  {
+    "name": "Carlos Rodriguez",
+    "profileImage": "https://example.com/carlos-rodriguez.jpg",
+    "contactDetails": {
+      "email": "carlos.rodriguez@example.com",
+      "phone": "+1 (555) 123-4567",
+      "address": "789 Adventure Street, Cityburg, USA"
+    },
+    "education": {
+      "degree": "Tourism and Hospitality Management",
+      "school": "City University",
+      "graduationYear": 2013
+    },
+    "skills": [
+      "Specialized in cultural and historical tours",
+      "Knowledgeable about local cuisine",
+      "Fluent in English and Spanish",
+      "Expert in group management",
+      "Destination event planning"
+    ],
+    "workExperience": [
+      {
+        "position": "Cultural Tour Guide",
+        "company": "City Explorer Tours",
+        "location": "Cityburg, USA",
+        "startDate": "2013-06-01",
+        "endDate": "present"
+      },
+      {
+        "position": "Event Coordinator",
+        "company": "Global Events Management",
+        "location": "Cityville, USA",
+        "startDate": "2011-03-10",
+        "endDate": "2013-05-31"
+      }
+    ]
+  },
+  {
+    "name": "Mia Johnson",
+    "profileImage": "https://example.com/mia-johnson.jpg",
+    "contactDetails": {
+      "email": "mia.johnson@example.com",
+      "phone": "+1 (555) 987-6543",
+      "address": "101 Adventure Lane, Explore City, USA"
+    },
+    "education": {
+      "degree": "Bachelor in Tourism and Leisure",
+      "school": "Adventure University",
+      "graduationYear": 2015
+    },
+    "skills": [
+      "Outdoor adventure specialist",
+      "Expert in nature conservation",
+      "Certified scuba diving instructor",
+      "Fluent in multiple languages",
+      "Customer-focused service"
+    ],
+    "workExperience": [
+      {
+        "position": "Adventure Tour Leader",
+        "company": "Nature Escapes Tours",
+        "location": "Explore City, USA",
+        "startDate": "2015-07-01",
+        "endDate": "present"
+      },
+      {
+        "position": "Ecotourism Coordinator",
+        "company": "Green Expeditions Agency",
+        "location": "Natureville, USA",
+        "startDate": "2013-10-15",
+        "endDate": "2015-06-30"
+      }
+    ]
+  }
+]

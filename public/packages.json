@@ -1,0 +1,177 @@
+[
+  {
+    "coverImage": "https://consciousadventurist.com/wp-content/uploads/2019/04/n1.jpg",
+    "galleryImages": [
+      "http://www.bhutanbuddhatravellers.com/wp-content/uploads/2016/01/explore-himalayan-kingdom-bhutan.jpg",
+      "https://www.travellersquest.com/blog/wp-content/uploads/2022/09/bhutan-mountain-min.jpg",
+      "https://pictures.altai-travel.com/1920x0/mountains-in-bhutan-824.jpg"
+    ],
+    "tourType": "Adventure",
+    "tripTitle": "Explore the Himalayas",
+    "price": "$1500",
+    "aboutTheTour": "Embark on an epic adventure to explore the majestic Himalayan mountain range.",
+    "tourPlan": [
+      {
+        "day": 1,
+        "description": "Arrival and welcome. Briefing on the itinerary."
+      },
+      {
+        "day": 2,
+        "description": "Hike to base camp and set up camp for the night."
+      },
+      {
+        "day": 3,
+        "description": "Summit day! Reach the peak and enjoy breathtaking views."
+      },
+      {
+        "day": 4,
+        "description": "Descend and return to base camp."
+      },
+      {
+        "day": 5,
+        "description": "Farewell and departure."
+      }
+    ],
+    "tourGuides": [
+      {
+        "name": "John Doe",
+        "experience": "10+ years",
+        "bio": "Passionate about mountaineering and guiding adventurers to new heights."
+      }
+    ]
+  },
+  {
+    "coverImage": "https://idsb.tmgrup.com.tr/ly/uploads/images/2023/05/24/thumbs/800x531/274413.jpg?v=1685449653",
+    "galleryImages": [
+      "http://www.bhutanbuddhatravellers.com/wp-content/uploads/2016/01/explore-himalayan-kingdom-bhutan.jpg",
+      "https://www.travellersquest.com/blog/wp-content/uploads/2022/09/bhutan-mountain-min.jpg",
+      "https://pictures.altai-travel.com/1920x0/mountains-in-bhutan-824.jpg"
+    ],
+    "tourType": "Cultural",
+    "tripTitle": "Discover Ancient Cities",
+    "price": "$1200",
+    "aboutTheTour": "Immerse yourself in the rich history and culture of ancient cities.",
+    "tourPlan": [
+      {
+        "day": 1,
+        "description": "Arrival and welcome. Introduction to the tour."
+      },
+      {
+        "day": 2,
+        "description": "Explore historical sites and landmarks in the city."
+      },
+      {
+        "day": 3,
+        "description": "Visit museums and learn about the local culture."
+      },
+      {
+        "day": 4,
+        "description": "Guided tour of ancient ruins and archaeological sites."
+      },
+      {
+        "day": 5,
+        "description": "Farewell and departure."
+      }
+    ],
+    "tourGuide": [
+      {
+        "name": "Maria Rodriguez",
+        "experience": "12+ years",
+        "bio": "Passionate about cultural heritage and sharing stories of the past."
+      }
+    ]
+  },
+
+  {
+    "coverImage": "https://e0.pxfuel.com/wallpapers/376/301/desktop-wallpaper-beach-coast-tropical-ocean-sunset-palm-paradise-summer-sea-and-mobile-background.jpg",
+    "galleryImages": [
+      "http://www.bhutanbuddhatravellers.com/wp-content/uploads/2016/01/explore-himalayan-kingdom-bhutan.jpg",
+      "https://www.travellersquest.com/blog/wp-content/uploads/2022/09/bhutan-mountain-min.jpg",
+      "https://pictures.altai-travel.com/1920x0/mountains-in-bhutan-824.jpg"
+    ],
+    "tourType": "Beach Vacation",
+    "tripTitle": "Sunset Paradise Retreat",
+    "price": "$1200",
+    "aboutTheTour": "Escape to a tropical paradise and unwind on pristine beaches with breathtaking sunset views.",
+    "tourPlan": [
+      {
+        "day": 1,
+        "description": "Arrival at the beach resort. Welcome drinks and relaxation."
+      },
+      {
+        "day": 2,
+        "description": "Beach day! Enjoy water activities and explore nearby islands."
+      },
+      {
+        "day": 3,
+        "description": "Guided nature walk and visit to local markets."
+      },
+      {
+        "day": 4,
+        "description": "Sunset cruise with dinner on the water."
+      },
+      {
+        "day": 5,
+        "description": "Farewell brunch and departure."
+      }
+    ],
+    "tourGuides": [
+      {
+        "name": "Isabella Garcia",
+        "experience": "8+ years",
+        "bio": "A beach enthusiast with a passion for creating memorable seaside experiences."
+      },
+      {
+        "name": "Raul Martinez",
+        "experience": "10+ years",
+        "bio": "Dedicated to providing a relaxing and enjoyable beach vacation for travelers."
+      }
+    ]
+  },
+  {
+    "coverImage": "https://bestlifeadventures.com/wp-content/uploads/2022/08/DSC_3404-980x653.jpg",
+    "galleryImages": [
+      "http://www.bhutanbuddhatravellers.com/wp-content/uploads/2016/01/explore-himalayan-kingdom-bhutan.jpg",
+      "https://www.travellersquest.com/blog/wp-content/uploads/2022/09/bhutan-mountain-min.jpg",
+      "https://pictures.altai-travel.com/1920x0/mountains-in-bhutan-824.jpg"
+    ],
+    "tourType": "Wildlife Safari",
+    "tripTitle": "Serengeti Adventure Expedition",
+    "price": "$2500",
+    "aboutTheTour": "Embark on a thrilling safari adventure through the Serengeti to witness the wonders of wildlife.",
+    "tourPlan": [
+      {
+        "day": 1,
+        "description": "Arrival at the safari camp. Orientation and introduction to the expedition."
+      },
+      {
+        "day": 2,
+        "description": "Full-day game drive to explore the diverse wildlife of the Serengeti."
+      },
+      {
+        "day": 3,
+        "description": "Guided walking safari and birdwatching in the morning."
+      },
+      {
+        "day": 4,
+        "description": "Hot air balloon safari at sunrise. Evening campfire and storytelling."
+      },
+      {
+        "day": 5,
+        "description": "Farewell breakfast and departure."
+      }
+    ],
+    "tourGuides": [
+      {
+        "name": "David Mbeki",
+        "experience": "15+ years",
+        "bio": "A seasoned safari guide with extensive knowledge of the Serengeti ecosystem."
+      },
+      {
+        "name": "Linda Kibaki",
+        "experience": "12+ years",
+        "bio": "Passionate about wildlife conservation and sharing the beauty of the African savannah."
+      }
+    ]
+  }
+]
